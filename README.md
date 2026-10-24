@@ -13,7 +13,7 @@
 
 ### ⚡ Where to find me
 
-<a href="https://www.linkedin.com/">
+<a href="www.linkedin.com/in/taoufik-mansouri">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:taoufikmansouri76@gmail.com">
