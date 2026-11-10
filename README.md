@@ -1,21 +1,36 @@
-# Hi , I'm Taoufik Mansouri!
+# Hi, I'm Taoufik Mansouri 👋
 
-**Software Engineering | Data & AI | DevOps & Cloud**
+**Computer Engineering Student | Full-Stack Developer & AI Enthusiast**
+I build robust web applications (Java / Spring Boot & Angular) and explore Deep Learning and LLMs to create intelligent solutions.
 
- Master's Student in Computer Engineering  
- Looking for a ** PFE Internship — January/February 2027**
+📍 Oujda, Morocco
+🎯 **Looking for a PFE internship, January/February 2027** (6 months, remote or on-site)
 
-### Languages and Tools I Use
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,spring,nodejs,express,react,docker,kubernetes,jenkins,githubactions,terraform,ansible,azure,oracle,linux,postgres,mysql,redis,git,maven,postman,hadoop&perline=9" />
-</p>
+**Backend:** Java, Spring Boot, Spring Security, REST APIs, JPA/Hibernate
+**Frontend:** Angular, TypeScript, HTML/CSS
+**AI & Data:** Python, Deep Learning (CNN), TensorFlow/Keras, PyTorch, scikit-learn, Pandas, NumPy, Data Mining
+**LLMs:** Prompt Engineering, RAG, LangChain, Hugging Face, OpenAI / Anthropic APIs
+**Databases:** PostgreSQL, MySQL, Vector DBs (FAISS / Chroma)
+**DevOps:** Git, Docker, GitHub Actions, Maven
 
-### ⚡ Where to find me
+🌱 **Currently learning:** Kubernetes, Terraform, Azure, LLM fine-tuning
 
-<a href="https://www.linkedin.com/in/taoufik-mansouri">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:taoufikmansouri76@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+## 🚀 Featured Projects
+
+### Full-Stack
+| Project | Description | Stack |
+|---|---|---|
+| [ebanking-project](https://github.com/Taoufik150/ebanking-project) | E-banking application: accounts, operations, authentication | Java, Spring Boot |
+| [projet-evaluation](https://github.com/Taoufik150/projet-evaluation) | Evaluation management application | Java |
+
+### AI & Data
+| Project | Description | Stack |
+|---|---|---|
+| [Face recognition CNN](https://github.com/Taoufik150/Syst-me-de-reconnaissance-faciale-par-CNN-) | Face recognition with a convolutional neural network | Python, CNN |
+| [Datamining](https://github.com/Taoufik150/Datamining) | Data mining and analysis | Python |
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taoufik-mansouri)
