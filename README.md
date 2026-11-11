@@ -20,11 +20,11 @@
 </div>
 
 ---
+👨‍💻 About Me
 
-## 👋 About Me
+I'm a Master's student in Computer Engineering at Université Mohammed Premier, Morocco, passionate about building intelligent software solutions and exploring emerging technologies.
 
-Computer Engineering Master's student at **Université Mohammed Premier (Oujda, Morocco)**. I build reliable backend systems and I'm increasingly focused on **securing and engineering LLM-based applications**.
-
+My interests lie at the intersection of Software Engineering, Artificial Intelligence, and Cloud Computing. I enjoy turning ideas into practical projects, solving complex problems, and continuously improving my technical skills.
 > 🎯 **Open to a PFE internship (Jan/Feb 2027)** in **AI / LLM Security**, **Backend Engineering** or **Cloud & DevOps**.
 > 📩 The best way to reach me: [email](mailto:taoufikmansouri76@gmail.com) or [LinkedIn](https://www.linkedin.com/in/taoufik-mansouri).
 
