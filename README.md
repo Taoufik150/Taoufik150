@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=200&section=header&text=Taoufik%20Mansouri&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%26%20LLM%20Security%20%7C%20Cloud%20%26%20DevOps&descAlignY=60&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=200&section=header&text=Taoufik%20Mansouri&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20and%20LLM%20Security%20%7C%20Cloud%20and%20DevOps&descAlignY=60&descSize=15" width="100%"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00C9A7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Master+Student+%F0%9F%8E%93;Backend+%26+Cloud-Native+with+Java+%2F+Spring+Boot;Exploring+LLM+Security%2C+RAG+%26+Agentic+AI+%F0%9F%A4%96;Open+to+PFE+Internship+%E2%80%A2+Jan%2FFeb+2027+%F0%9F%9A%80" alt="Typing SVG"/>
