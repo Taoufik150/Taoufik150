@@ -1,146 +1,106 @@
 <div align="center">
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=220&section=header&text=Taoufik%20Mansouri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20AI%20%26%20Deep%20Learning%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=16" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=200&section=header&text=Taoufik%20Mansouri&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%C3%97%20AI%20%7C%20LLM%20Security%20%7C%20Cloud%20%26%20DevOps&descAlignY=60&descSize=15" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student+%F0%9F%8E%93;Building+Scalable+Applications+with+Java+%26+Spring+Boot;Exploring+AI%2C+Deep+Learning+%26+LLMs+%F0%9F%A4%96;Learning+Cloud+Native+%26+DevOps+Technologies+%E2%98%81%EF%B8%8F;Seeking+a+Research+or+Engineering+PFE+Internship+2027+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00C9A7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Master's+Student+%F0%9F%8E%93;Backend+%26+Cloud-Native+with+Java+%2F+Spring+Boot;Exploring+LLM+Security%2C+RAG+%26+Agentic+AI+%F0%9F%A4%96;Open+to+PFE+Internship+%E2%80%A2+Jan%2FFeb+2027+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍_Oujda-Morocco-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍_Oujda,_Morocco-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🎓_Master-Computer_Engineering-00C9A7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎯_PFE-2027-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎯_PFE-Jan/Feb_2027-orange?style=for-the-badge"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/taoufik-mansouri">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:taoufikmansouri76@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Taoufik150">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/taoufik-mansouri"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:taoufikmansouri76@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm a **Computer Engineering Master's student** at Université Mohammed Premier, Morocco, interested in software engineering, artificial intelligence and cloud computing.
+Computer Engineering Master's student at **Université Mohammed Premier (Oujda, Morocco)**. I build reliable backend systems and I'm increasingly focused on **securing and engineering LLM-based applications**.
 
-I enjoy designing and developing scalable applications, experimenting with intelligent systems, and exploring modern software architectures.
+> 🎯 **Open to a PFE internship (Jan/Feb 2027)** in **AI / LLM Security**, **Backend Engineering** or **Cloud & DevOps**.
+> 📩 The best way to reach me: [email](mailto:taoufikmansouri76@gmail.com) or [LinkedIn](https://www.linkedin.com/in/taoufik-mansouri).
 
-- 💻 **Software Engineering:** Java, Spring Boot, Angular and REST APIs.
-- 🤖 **Artificial Intelligence:** Machine Learning, Deep Learning, Computer Vision and NLP.
-- 🧠 **Research Interests:** LLM Security, Retrieval-Augmented Generation (RAG) and Agentic AI.
-- ☁️ **Cloud & DevOps:** Docker, Kubernetes, Jenkins, CI/CD and Linux.
-- 🗄️ **Databases:** PostgreSQL, MySQL, Oracle and MongoDB.
-- 🏅 **Certification:** Cisco CCNA 1.
-
-🎯 **Looking for a PFE internship starting in January/February 2027**, preferably in AI, LLM Security, Software Engineering or Cloud/DevOps.
+**Highlights**
+- 🏅 Cisco **CCNA 1** certified
+- ☸️ Deployed a distributed evaluation system on **Kubernetes (K3s)**
+- 🧠 Built a **CNN face-recognition** system in Python <!-- TODO: add accuracy / dataset size -->
+- 🏦 Developed a secured **Spring Boot** banking API <!-- TODO: add JWT / tests / coverage -->
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 💻 Software Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,html,css,maven&perline=7"/>
-</p>
-
-### 🤖 Artificial Intelligence & Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&perline=6"/>
-</p>
-
-`Machine Learning` · `Deep Learning` · `CNN` · `Computer Vision` · `NLP` · `LLMs` · `RAG`
-
-### 🗄️ Databases
+| Level | Technologies |
+|---|---|
+| **Core** | Java · Spring Boot · REST APIs · Angular · TypeScript · Python · SQL |
+| **Databases** | MySQL · PostgreSQL · Oracle · MongoDB |
+| **DevOps** | Docker · Git · GitHub Actions · Jenkins · Linux · JUnit · Mockito |
+| **AI / ML** | TensorFlow · PyTorch · scikit-learn · CNN · NLP |
+| **Learning** | Kubernetes (advanced) · Terraform · AWS · RAG · Agentic AI · LLM Security |
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,oracle,mongodb&perline=6"/>
+<img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,python,postgres,mysql,docker,kubernetes,jenkins,linux,git,pytorch,tensorflow&perline=7"/>
 </p>
-
-### ⚙️ Cloud, DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,linux,git,github,githubactions&perline=8"/>
-</p>
-
-`CI/CD` · `JUnit` · `Mockito` · `REST APIs` · `Microservices`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💻 Software Engineering & Backend
+### ☸️ Backend & Cloud-Native
 
-| Project | Description | Technologies |
+| Project | What it does | Stack |
 |---|---|---|
-| 🏦 [E-Banking Project](https://github.com/Taoufik150/ebanking-project) | Banking application with account management, transactions and secure authentication. | Java, Spring Boot, MySQL |
-| 🍽️ [QuickOrder](https://github.com/samir-ouhmmou/QuickOrder) | Restaurant management application with a full-stack architecture. | Spring Boot, Angular, PostgreSQL |
-| 🎓 [Evaluation & Monitoring](https://github.com/Taoufik150/projet-evaluation) | Distributed student evaluation and monitoring system deployed on Kubernetes. | Java, Docker, K3s |
+| 🎓 [**Evaluation & Monitoring**](https://github.com/Taoufik150/projet-evaluation) | Distributed student evaluation and monitoring platform, containerized and deployed on a K3s cluster. | Java · Docker · K3s |
+| 🏦 [**E-Banking**](https://github.com/Taoufik150/ebanking-project) | Banking app: accounts, transactions, secure authentication. | Java · Spring Boot · MySQL |
+| 🍽️ [**QuickOrder**](https://github.com/samir-ouhmmou/QuickOrder) | Full-stack restaurant management app (team project). | Spring Boot · Angular · PostgreSQL |
 
-### 🤖 Artificial Intelligence & Data Science
+### 🤖 AI & Data
 
-| Project | Description | Technologies |
+| Project | What it does | Stack |
 |---|---|---|
-| 👤 [Face Recognition CNN](https://github.com/Taoufik150/Syst-me-de-reconnaissance-faciale-par-CNN-) | Face recognition using Convolutional Neural Networks. | Python, CNN, Deep Learning |
-| ⛏️ [Data Mining](https://github.com/Taoufik150/Datamining) | Data analysis and data mining experiments. | Python, Machine Learning |
+| 👤 [**Face Recognition (CNN)**](https://github.com/Taoufik150/Syst-me-de-reconnaissance-faciale-par-CNN-) | Face recognition with convolutional neural networks. | Python · CNN · Deep Learning |
+| ⛏️ [**Data Mining**](https://github.com/Taoufik150/Datamining) | Data analysis and ML experiments. | Python · scikit-learn |
+
+### 🔬 In Progress (LLM Security & RAG)
+
+- 🛡️ **Prompt-injection detector**: classifying and blocking malicious prompts *(coming soon)*
+- 📚 **RAG pipeline**: question answering over documents with embeddings + vector DB *(coming soon)*
+- 🤖 **Tool-calling agent**: small agent with guardrails *(coming soon)*
 
 ---
 
 ## 🔬 Research Interests
 
-I'm particularly interested in exploring:
-
-- 🔐 **LLM Security:** Prompt injection, jailbreak detection and adversarial attacks.
-- 🧠 **Agentic AI:** Autonomous agents, tool calling and multi-agent systems.
-- 📚 **RAG Systems:** Knowledge retrieval, embeddings and vector databases.
-- 👁️ **Computer Vision:** Deep learning architectures and intelligent image analysis.
+- 🔐 **LLM Security**: prompt injection, jailbreak detection, adversarial robustness
+- 📚 **RAG Systems**: retrieval, embeddings, vector databases, evaluation
+- 🧠 **Agentic AI**: autonomous agents, tool calling, multi-agent systems
+- 👁️ **Computer Vision**: deep learning architectures for image analysis
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Taoufik150&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taoufik150&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Taoufik150&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Taoufik150&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taoufik150&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
-
-- Kubernetes & Cloud Native Architecture
-- Terraform & Infrastructure as Code
-- Large Language Models & RAG
-- Agentic AI & LLM Security
-- Advanced Deep Learning with PyTorch and TensorFlow
-
----
-
 <div align="center">
 
-### 💡 Building, Learning & Innovating
+*Turning ideas into secure, intelligent and scalable software.*
 
-*Turning ideas into intelligent and scalable software solutions.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=90&section=footer" width="100%"/>
 
 </div>
